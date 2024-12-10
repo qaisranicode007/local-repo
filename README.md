@@ -1,5 +1,8 @@
 #  this is my first-repo
 just checking up every thing randomly
+i am again checking up my git hub
+i use vs code on daily basis but not git hub
+i will now use git hub also
 
 
 
